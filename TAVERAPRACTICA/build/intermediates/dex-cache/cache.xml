@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHABY\AndroidStudioProjects\TAVERAPRACTICA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\TAVERAPRACTICA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2e329a8ab2ab44a4119b1f7322c610987ebd7454\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHABY\AndroidStudioProjects\TAVERAPRACTICA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49d81831fa5469cf9f1fc87bd5c678e0848f5edd">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\TAVERAPRACTICA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8baa9842d101034645e9ff65b1ae60e36629a930\classes.dex" />
+    </item>
+
+</items>
